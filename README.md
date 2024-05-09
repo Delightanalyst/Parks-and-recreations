@@ -1,2 +1,2 @@
-# Parks-and-recreations
-This is my first project on GitHub
+# About my first project on GitHub
+# I analyzed and cleaned the world layoff database
