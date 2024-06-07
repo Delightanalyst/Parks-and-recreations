@@ -1,1 +1,1 @@
-# SQL PROJECT ON MAJOR COMPANIES LAYOFFS 
+I cleaned and explored the world layoffs dataset.
